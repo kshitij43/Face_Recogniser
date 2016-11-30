@@ -19,12 +19,12 @@ To run the code:
 
 Software dependencies:
 
-python 2.7.12
-NumPy 1.11.2
-SciPy 0.18.1
-OpenCV 3.1.0
-dlib
-Openface
-Torch
+python 2.7.12,
+NumPy 1.11.2,
+SciPy 0.18.1,
+OpenCV 3.1.0,
+dlib,
+Openface,
+Torch.
 
 tested on UBUNTU 16.04 LTS
